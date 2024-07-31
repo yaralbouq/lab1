@@ -4,6 +4,5 @@ void main() {
   print ("yara");
   print ("ggd");
   print ("new one");
-  print("last");
 
 }
